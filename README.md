@@ -31,14 +31,14 @@ The dataset was cleaned, null values handled, and features normalized using **Z-
 ### 1. Feature Distributions by Class
 To understand how features differ between Healthy and Cancer patients, histograms were plotted for each feature:
 
-![Feature Distributions](visulaization_1.png)
+![Feature Distributions](visualization_1.png)
 
 This helps in visualizing which features are more discriminative for classification.
 
 ### 2. Sigmoid Function
 The core of Logistic Regression is the sigmoid function, which converts linear combinations of features into probabilities:
 
-![Sigmoid Function](visualiation_2.png)
+![Sigmoid Function](visualization_2.png)
 
 ### 3. Sigmoid Gradient (Derivative)
 The derivative of the sigmoid function is crucial for gradient descent optimization:
