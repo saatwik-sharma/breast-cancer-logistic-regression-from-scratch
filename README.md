@@ -31,7 +31,7 @@ The dataset was cleaned, null values handled, and features normalized using **Z-
 ### 1. Feature Distributions by Class
 To understand how features differ between Healthy and Cancer patients, histograms were plotted for each feature:
 
-![Feature Distributions](visulaisation_1.png)
+![Feature Distributions](visualisation_1.png)
 
 This helps in visualizing which features are more discriminative for classification.
 
